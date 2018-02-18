@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf97481361d9c7246981b0ba8730b9b3
+timeCreated: 1507900756
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rotateCamera: {fileID: 1623595197629556, guid: ce14b2e5fd74ce04a86084cb9be6b074,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

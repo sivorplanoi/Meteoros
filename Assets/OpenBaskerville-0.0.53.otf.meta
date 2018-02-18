@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b545b1bbf3a9de549a38be0fc7cf839b
+timeCreated: 1508495742
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Open Baskerville 0.0.53
+  fontNames:
+  - Open Baskerville 0.0.53
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

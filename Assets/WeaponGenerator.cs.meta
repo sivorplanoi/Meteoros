@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 661f12324b5083745a17b407649ff867
+timeCreated: 1507623552
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HandgunPrefab: {fileID: 1691082798920174, guid: 7ac97951a80427d468485e2aaa6b6da8,
+      type: 2}
+  - BarrettM107Prefab: {fileID: 1073302116837112, guid: 6ee27ae77b8c36344b2eaf7ff048c9ff,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
